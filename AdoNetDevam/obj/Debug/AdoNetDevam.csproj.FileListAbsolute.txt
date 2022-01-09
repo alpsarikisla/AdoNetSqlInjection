@@ -1,0 +1,7 @@
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\bin\Debug\AdoNetDevam.exe.config
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\bin\Debug\AdoNetDevam.exe
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\bin\Debug\AdoNetDevam.pdb
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\obj\Debug\AdoNetDevam.csproj.AssemblyReference.cache
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\obj\Debug\AdoNetDevam.csproj.CoreCompileInputs.cache
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\obj\Debug\AdoNetDevam.exe
+C:\Users\302-PC\Documents\GitHub\AdoNetSqlInjection\AdoNetDevam\obj\Debug\AdoNetDevam.pdb
